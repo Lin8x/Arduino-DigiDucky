@@ -17,8 +17,7 @@ A script for making your Digispark become a sneaky macOS RubberDucky!
 ## Instructions
 1. Copy and paste the code or upload it through the Arduino IDE
 2. Upload the code to the DigiSpark
-3. Plug it into your victim's computer >:)
-4. Maybe have USB to steal the files from. ;)
+3. Plug it into your victim's computer ;)
 
 
 ![Screenshot of Arduino Code](https://i.imgur.com/jpTw16D.png)
