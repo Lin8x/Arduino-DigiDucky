@@ -4,7 +4,7 @@
 
 A script for making your Digispark become a sneaky macOS RubberDucky!
 
-![Amazing Ass Image](https://i.imgur.com/EO8geae.jpg)
+![Amazing Ass Image](https://i.imgur.com/qzur7Ic.jpg)
 
 ---------------------------------------------------------
 
