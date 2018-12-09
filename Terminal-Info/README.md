@@ -2,7 +2,7 @@
 
 # Arduino-DigiDucky > Terminal-Info + Logger Website
 
-A script for making your Digispark become a sneaky macOS RubberDucky!
+A script for stealing system info and going to a logger website!
 
 ![Amazing Ass Image](https://i.imgur.com/qzur7Ic.jpg)
 
