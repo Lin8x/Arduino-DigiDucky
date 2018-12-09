@@ -1,7 +1,7 @@
 ---------------------------------------------------------
 
 # Arduino-DigiDucky
-A script for making your Digispark become a sneaky macOS RubberDucky!
+A list of scripts for making your Digispark become a sneaky macOS RubberDucky!
 
 ![Amazing Ass Image](https://i.imgur.com/EO8geae.jpg)
 
